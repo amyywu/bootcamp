@@ -15,3 +15,6 @@ git commit -m "commit message"
 
 git push 
 - push your commit(s) to the remote repository
+
+git log
+- see commit history for both local (HEAD) and remote (origin)
