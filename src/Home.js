@@ -38,8 +38,6 @@ export default function App() {
 
             <img className="dogImg"src={dog} />
             <br />
-            <img className="dogImg"src={dog} />
-            <br />
           </Col>
           <Col><img className="dogImg"src={dog} />
             <br />
