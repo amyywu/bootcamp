@@ -18,3 +18,7 @@ git push
 
 git log
 - see commit history for both local (HEAD) and remote (origin)
+
+
+TO PUSH:
+git add, git commit, git push (following above)
